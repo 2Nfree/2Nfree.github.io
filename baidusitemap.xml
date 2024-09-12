@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.2nfree.com/2023/04/05/flink-operator/</loc>
-    <lastmod>2024-08-27</lastmod>
+    <lastmod>2024-09-12</lastmod>
   </url>
   <url>
     <loc>https://blog.2nfree.com/2024/08/15/some-ways-enhance-wsl-experience/</loc>
@@ -13,19 +13,19 @@
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/2024/03/13/ceph-osd-down/</loc>
-    <lastmod>2024-08-26</lastmod>
-  </url>
-  <url>
     <loc>https://blog.2nfree.com/2024/03/17/kubernetes-logging-collection-1/</loc>
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/2024/03/21/kubernetes-logging-collection-2/</loc>
+    <loc>https://blog.2nfree.com/2024/03/13/ceph-osd-down/</loc>
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
     <loc>https://blog.2nfree.com/2024/03/25/keda/</loc>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.2nfree.com/2024/03/21/kubernetes-logging-collection-2/</loc>
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
@@ -37,7 +37,7 @@
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/2024/02/27/cicd-in-kubernetes-based-jenkins-1%20copy/</loc>
+    <loc>https://blog.2nfree.com/2024/02/27/cicd-in-kubernetes-based-jenkins-1/</loc>
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
@@ -45,7 +45,7 @@
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/2024/01/12/deploy-ceph-by-cephadm/</loc>
+    <loc>https://blog.2nfree.com/2024/02/11/cicd-in-cloud-native/</loc>
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
@@ -53,11 +53,7 @@
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/2024/02/11/cicd-in-cloud-native/</loc>
-    <lastmod>2024-08-26</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.2nfree.com/2023/07/07/useful-kubernetes-commands/</loc>
+    <loc>https://blog.2nfree.com/2024/01/12/deploy-ceph-by-cephadm/</loc>
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
@@ -69,6 +65,10 @@
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
+    <loc>https://blog.2nfree.com/2023/07/07/useful-kubernetes-commands/</loc>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
     <loc>https://blog.2nfree.com/2023/02/17/deploy-rook-ceph-on-k8s/</loc>
     <lastmod>2024-08-26</lastmod>
   </url>
@@ -77,19 +77,15 @@
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/2023/02/28/install-oh-my-zsh/</loc>
-    <lastmod>2024-08-26</lastmod>
-  </url>
-  <url>
     <loc>https://blog.2nfree.com/2023/03/25/kind/</loc>
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/2022/05/07/install-mysql/</loc>
+    <loc>https://blog.2nfree.com/2023/02/28/install-oh-my-zsh/</loc>
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
-    <loc>https://blog.2nfree.com/2022/06/25/install-redis/</loc>
+    <loc>https://blog.2nfree.com/2022/05/07/install-mysql/</loc>
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
@@ -101,7 +97,15 @@
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
+    <loc>https://blog.2nfree.com/2022/06/25/install-redis/</loc>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
     <loc>https://blog.2nfree.com/2023/02/17/deploy-k8s-with-kubeadm/</loc>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.2nfree.com/2022/04/05/install-nginx/</loc>
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
@@ -110,10 +114,6 @@
   </url>
   <url>
     <loc>https://blog.2nfree.com/2022/04/11/centos-common-tool/</loc>
-    <lastmod>2024-08-26</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.2nfree.com/2022/04/05/install-nginx/</loc>
     <lastmod>2024-08-26</lastmod>
   </url>
 </urlset> 
