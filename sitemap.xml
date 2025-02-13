@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.2nfree.com/kubernetes-logging-collection-5/</loc>
+    <loc>https://blog.2nfree.com/about/</loc>
     
-    <lastmod>2024-09-23</lastmod>
+    <lastmod>2025-01-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.2nfree.com/tags/</loc>
+    <loc>https://blog.2nfree.com/kubernetes-logging-collection-5/</loc>
     
-    <lastmod>2024-08-26</lastmod>
+    <lastmod>2024-09-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://blog.2nfree.com/about/</loc>
+    <loc>https://blog.2nfree.com/tags/</loc>
     
     <lastmod>2024-08-26</lastmod>
     
@@ -310,7 +310,7 @@
 
   <url>
     <loc>https://blog.2nfree.com/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -318,119 +318,119 @@
   
   <url>
     <loc>https://blog.2nfree.com/tags/Linux/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/tags/Shell/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/tags/Nginx/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/tags/Mysql/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/tags/Redis/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/tags/Kubernetes/</loc>
-    <lastmod>2024-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.2nfree.com/tags/DevOps/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/tags/Storage/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/tags/Ceph/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.2nfree.com/tags/DevOps/</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/tags/Database/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/tags/Doris/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/tags/Flink/</loc>
-    <lastmod>2024-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.2nfree.com/tags/Jenkins/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/tags/Spark/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.2nfree.com/tags/Jenkins/</loc>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/tags/Logging/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/tags/HPA/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/tags/WSL/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -439,35 +439,35 @@
   
   <url>
     <loc>https://blog.2nfree.com/categories/Linux/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/categories/Mysql/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/categories/Redis/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/categories/%E4%BA%91%E5%8E%9F%E7%94%9F/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.2nfree.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
